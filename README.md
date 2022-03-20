@@ -4,6 +4,6 @@ Over the wire is a begginer level CTF/Wargame platform where you can learn and p
 
 <h2>Wargames Writeups</h2>
 
-[Bandit](excel-cyber/OTW-Bandit/) 
+[Bandit](excel-cyber/OTW-Bandit) 
 
 
