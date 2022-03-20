@@ -1,9 +1,13 @@
-# Over The Wire 
+# Excel-Cyber
 
-Over the wire is a begginer level CTF/Wargame platform where you can learn and practice cyber-security.
+#### This repository is made to write and document my journey in IT.
 
-<h2>Wargames Writeups</h2>
+#### This serves as my library on things that I learned in IT and in Cyber Security.
 
-[Bandit](excel-cyber/OTW-Bandit) 
+#### Below are the list of things I write up on and will update it consistently.
+
+## Contents
+
+
 
 
