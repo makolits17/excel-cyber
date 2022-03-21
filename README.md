@@ -8,7 +8,7 @@
 
 ## Contents
 
-Capture The Flag
+[Capture The Flag](https://github.com/makolits17/excel-cyber/tree/main/CTF%20WriteUps)
 
 Networking
 
